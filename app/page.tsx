@@ -10,7 +10,7 @@ export default function Home() {
     <main className="min-h-screen flex flex-col items-center justify-center bg-gray-50">
       <div className="max-w-4xl w-full px-4">
         <h1 className="text-4xl font-bold text-center mb-8 text-gray-900">
-          Welcome to My Website
+          Josh's new girlfriend's website
         </h1>
         
         <div className="bg-white rounded-lg shadow-lg p-8 mb-8">
